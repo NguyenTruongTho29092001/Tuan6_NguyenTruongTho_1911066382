@@ -67,7 +67,7 @@ namespace Tuan4_NguyenTruongTho.Controllers
         }
         [HttpGet]
         public ActionResult DangNhap()
-        {p
+        {
             return View();
         }
         [HttpPost]
